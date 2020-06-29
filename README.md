@@ -39,5 +39,5 @@ echo -e $flashred"ERROR: "$none$red"Something is wrong."$none
 ```
 
 ## Reference
-Some terminal cannot blink [link](https://unix.stackexchange.com/questions/269809/blink-codeescape-code-has-been-removed)
-More information on ANSI escape code [link](https://en.wikipedia.org/wiki/ANSI_escape_code)
+Some terminal cannot blink [link](https://unix.stackexchange.com/questions/269809/blink-codeescape-code-has-been-removed)  
+More information on ANSI escape code [link](https://en.wikipedia.org/wiki/ANSI_escape_code)  
