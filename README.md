@@ -36,3 +36,8 @@ flashred="\033[5;31;40m"
 red="\033[31;40m"
 none="\033[0m"
 echo -e $flashred"ERROR: "$none$red"Something is wrong."$none
+```
+
+## Reference
+Some terminal cannot blink [link](https://unix.stackexchange.com/questions/269809/blink-codeescape-code-has-been-removed)
+More information on ANSI escape code [link](https://en.wikipedia.org/wiki/ANSI_escape_code)
